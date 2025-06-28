@@ -48,7 +48,12 @@ Built with simplicity, clarity, and responsiveness in mind, this platform encour
 
 ## 📸 Screenshots (Sample Runs)
 
-> *(Add screenshots here for money donation, item donation, and donation tracking views if available.)*
+> ![image](https://github.com/user-attachments/assets/edb95597-36e5-4921-9488-b113819b99e3)
+> ![image](https://github.com/user-attachments/assets/501c2970-06c9-4722-ba90-b9b7e135a850)
+> ![image](https://github.com/user-attachments/assets/b56e813e-0a4c-4ffa-80b6-30b4da109152)
+
+
+
 
 ---
 
